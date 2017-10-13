@@ -1,0 +1,10 @@
+c:\users\eahscs\documents\visual studio 2017\Projects\Francis\Francis\bin\Debug\Francis.exe.config
+c:\users\eahscs\documents\visual studio 2017\Projects\Francis\Francis\bin\Debug\Francis.exe
+c:\users\eahscs\documents\visual studio 2017\Projects\Francis\Francis\bin\Debug\Francis.pdb
+c:\users\eahscs\documents\visual studio 2017\Projects\Francis\Francis\bin\Debug\ApiAi.dll
+c:\users\eahscs\documents\visual studio 2017\Projects\Francis\Francis\bin\Debug\Newtonsoft.Json.dll
+c:\users\eahscs\documents\visual studio 2017\Projects\Francis\Francis\bin\Debug\ApiAi.xml
+c:\users\eahscs\documents\visual studio 2017\Projects\Francis\Francis\bin\Debug\Newtonsoft.Json.xml
+c:\users\eahscs\documents\visual studio 2017\Projects\Francis\Francis\obj\Debug\Francis.csprojResolveAssemblyReference.cache
+c:\users\eahscs\documents\visual studio 2017\Projects\Francis\Francis\obj\Debug\Francis.exe
+c:\users\eahscs\documents\visual studio 2017\Projects\Francis\Francis\obj\Debug\Francis.pdb
