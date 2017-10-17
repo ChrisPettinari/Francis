@@ -8,3 +8,14 @@ c:\users\eahscs\documents\visual studio 2017\Projects\Francis\Francis\bin\Debug\
 c:\users\eahscs\documents\visual studio 2017\Projects\Francis\Francis\obj\Debug\Francis.csprojResolveAssemblyReference.cache
 c:\users\eahscs\documents\visual studio 2017\Projects\Francis\Francis\obj\Debug\Francis.exe
 c:\users\eahscs\documents\visual studio 2017\Projects\Francis\Francis\obj\Debug\Francis.pdb
+C:\Users\cpett\OneDrive\Documents\GitHub\Francis\Francis\bin\Debug\Francis.exe.config
+C:\Users\cpett\OneDrive\Documents\GitHub\Francis\Francis\bin\Debug\Francis.exe
+C:\Users\cpett\OneDrive\Documents\GitHub\Francis\Francis\bin\Debug\Francis.pdb
+C:\Users\cpett\OneDrive\Documents\GitHub\Francis\Francis\bin\Debug\ApiAi.dll
+C:\Users\cpett\OneDrive\Documents\GitHub\Francis\Francis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cpett\OneDrive\Documents\GitHub\Francis\Francis\bin\Debug\ApiAi.xml
+C:\Users\cpett\OneDrive\Documents\GitHub\Francis\Francis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cpett\OneDrive\Documents\GitHub\Francis\Francis\obj\Debug\Francis.csprojResolveAssemblyReference.cache
+C:\Users\cpett\OneDrive\Documents\GitHub\Francis\Francis\obj\Debug\Francis.csproj.CoreCompileInputs.cache
+C:\Users\cpett\OneDrive\Documents\GitHub\Francis\Francis\obj\Debug\Francis.exe
+C:\Users\cpett\OneDrive\Documents\GitHub\Francis\Francis\obj\Debug\Francis.pdb
